@@ -91,7 +91,7 @@ pytest
 
 ## Citation
 
-If you use PiQC, please cite the paper and the [MATLAB release](https://doi.org/10.5281/zenodo.20742265).
+If you use PiQC, please cite the paper and this repository.
 
 ## License
 
